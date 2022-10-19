@@ -11,7 +11,7 @@ const Speech = () => {
   });
   return (
     <div className={styled.container}>
-      <h1>아래 버튼 클릭</h1>
+      <h1>아래 버튼 클릭!</h1>
       <button onMouseDown={listen} onMouseUp={stop} className={styled.button}>
         🎤
       </button>
