@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'Cafe24Ssurround';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2105_2@1.0/Cafe24Ssurround.woff')
+    format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.li {
+  font-family: 'Cafe24Ssurround';
+  color: rgb(67, 67, 67);
+  width: 500px;
+  margin: 6px;
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.my1 {
+  background-color: rgb(254, 244, 148, 0.777);
+}
+
+.my2 {
+  background-color: rgba(238, 184, 209, 0.777);
+}
+
+.my3 {
+  background-color: rgb(185, 210, 234, 0.777);
+}
+
+.my4 {
+  background-color: rgb(195, 230, 220, 0.777);
+}
