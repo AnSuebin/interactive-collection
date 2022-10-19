@@ -20,7 +20,8 @@
     "react-swipe-button": "^1.0.1",
     "swiper": "^8.4.4",
     "uuid4": "^2.0.3",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "webpack-dev-server": "~2.9.4"
   },
   "scripts": {
     "start": "react-scripts start",
